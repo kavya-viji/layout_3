@@ -1,0 +1,234 @@
+.header .wrapper
+{
+	width:70%;
+    margin:auto;	
+}
+.profile .wrapper
+{
+	width:70%;
+    margin:auto;	
+}
+.portfolio .wrapper
+{
+	width:70%;
+    margin:auto;	
+}
+.about .wrapper
+{
+	width:70%;
+    margin:auto;	
+} 
+.contact .wrapper
+{
+	width:70%;
+    margin:auto;	
+}
+ .address .wrapper
+{
+	width:70%;
+    margin:auto;	
+}
+ .copyright .wrapper
+{
+	width:70%;
+    margin:auto;	
+}
+.header
+{
+    background-color:lightblue;
+    height:100px;
+}
+.header .header-fc
+{
+	 display:flex;
+	 justify-content:space-around;
+}
+.header .header-fc .home
+{
+	 margin-top:20px;
+	 background-color:white;
+	 height:50px;
+	 width:20%;
+}
+.header .header-fc .navi
+{
+     margin-top:20px;
+	 background-color:white;
+	 height:50px;
+	 width:50%;
+}
+.profile
+{
+	 background-color:lightgreen;
+	 height:505px;
+}
+.profile .profile-fc
+{
+     display:flex;
+     justify-content:center;
+}
+.profile .profile-fc .profiles
+{
+	 margin-top:100px;
+     background-color:white;
+	 height:300px;
+	 width:50%;
+}
+.portfolio
+{
+	 background-color:gray;
+	 height:950px;
+}
+.portfolio .portfolio-fc
+{
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:space-evenly;	 
+}
+.portfolio .portfolio-fc .box-a
+{
+	 margin-top:150px;
+	 background-color:white;
+	 height:300px;
+	 width:30%;
+}
+.portfolio .portfolio-fc .box-b
+{
+     margin-top:150px;
+	 background-color:white;
+	 height:300px;
+	 width:30%;
+}
+.portfolio .portfolio-fc .box-c
+{
+     margin-top:150px;
+	 background-color:white;
+	 height:300px;
+	 width:30%;
+}
+.portfolio .portfolio-fc .box-d
+{
+     margin-top:150px;
+	 background-color:white;
+	 height:300px;
+	 width:30%;
+     margin-top:50px;
+}
+.portfolio .portfolio-fc .box-e
+{
+     margin-top:150px;	   
+	 background-color:white;
+	 height:300px;
+	 width:30%;
+     margin-top:50px;
+}
+.portfolio .portfolio-fc .box-f
+{
+     margin-top:150px;
+	 background-color:white;
+	 height:300px;
+	 width:30%;
+	  margin-top:50px;
+}   
+.about
+{
+	 background-color:khaki;
+	 height:576px; 
+}
+.about .about-fc
+{
+	 display:flex;
+     justify-content:space-around;	 
+}
+.about .about-fc .content-a
+{
+	  margin-top:150px;
+	 background-color:pink;
+	 height:300px;
+	 width:45%; 
+}
+.about .about-fc .content-b
+{
+     margin-top:150px;
+     background-color:pink;
+	 height:300px;
+	 width:45%; 
+}
+.contact
+{
+	 background-color:powderblue;
+	 height:850px;
+}
+.contact .contact-fc
+{
+	 display:flex;
+	 flex-direction:column;
+}
+.contact .contact-fc .name
+{
+	 margin-top:100px;
+     background-color:white;
+	 height:100px;
+	 width:50%;
+     margin-left:320px;
+}	  
+.contact .contact-fc .email
+{
+	 margin-top:100px;
+     background-color:white;
+	 height:100px;
+     width:50%;
+     margin-left:320px;
+}
+.contact .contact-fc .phone
+{
+	  margin-top:100px;
+	  background-color:white;
+	  height:100px;
+      width:50%;
+      margin-left:320px;
+}
+.contact .contact-fc .message
+{
+	  margin-top:100px;
+	  background-color:white;
+	  height:100px;
+      width:50%;
+      margin-left:320px;
+}
+.address
+{
+	 background-color:rosybrown;
+	 height:270px; 
+}
+  .copyright
+{
+	 background-color:steelblue;
+	 height:68px
+}
+.copyright .copyright-fc
+{
+	 display:flex;
+	 justify-content:space-evenly;
+}
+.copyright .copyright-fc .location
+{
+	 margin-top:10px;
+	 background-color:white;
+	 height:50px;
+	 width:30%;
+}
+.copyright .copyright-fc .web
+{
+	 margin-top:10px;
+	 background-color:white;
+	 height:50px;
+     width:30%;
+}
+.copyright .copyright-fc .freelancer
+{
+     margin-top:10px;
+	 background-color:white;
+	 height:50px;
+     width:30%;
+}
